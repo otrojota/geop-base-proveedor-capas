@@ -1,0 +1,25 @@
+{
+  "name": "geop-base-proveedor-capas",
+  "version": "1.0.0",
+  "description": "Base para nuevos proveedores de Capas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otrojota/geop-base-proveedor-capas.git"
+  },
+  "keywords": [
+    "geoportal"
+  ],
+  "author": "Jota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otrojota/geop-base-proveedor-capas/issues"
+  },
+  "homepage": "https://github.com/otrojota/geop-base-proveedor-capas#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
