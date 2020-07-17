@@ -1,6 +1,6 @@
 {
   "name": "geop-base-proveedor-capas",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Base para nuevos proveedores de Capas",
   "main": "index.js",
   "scripts": {
