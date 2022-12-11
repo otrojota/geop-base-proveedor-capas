@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/otrojota/geop-base-proveedor-capas#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "extend": "^3.0.2"
   }
 }
